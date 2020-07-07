@@ -48,5 +48,14 @@ The app is divided into three main categories:   Project Dashboard,  Calendar �
      11 firebase deploy  
      12 at the last  you got hosting url  ————— in terminal
      
+     
+![login](https://user-images.githubusercontent.com/17641451/86678969-bc5b3c80-c01a-11ea-8c76-d7357f06ed69.jpg)
+![reg](https://user-images.githubusercontent.com/17641451/86679013-c715d180-c01a-11ea-9fa4-d0ffffdb9795.jpeg)
+![3](https://user-images.githubusercontent.com/17641451/86679029-caa95880-c01a-11ea-9d2d-88baa510d1ab.jpeg)
+![4](https://user-images.githubusercontent.com/17641451/86679038-cc731c00-c01a-11ea-8300-3abe1ba6b4e7.png)
+![1](https://user-images.githubusercontent.com/17641451/86679062-d3019380-c01a-11ea-9fce-1cdd20aba793.jpg)
+![2](https://user-images.githubusercontent.com/17641451/86679070-d563ed80-c01a-11ea-92b7-344400087ab2.jpg)
+
+
  
 
