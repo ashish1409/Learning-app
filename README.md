@@ -7,7 +7,23 @@ The app is divided into three main categories:   Project Dashboard,  Calendar â€
  
   1. refer this:- https://firebase.google.com/docs/hosting/use-cases
    # deploy app  with firebase tool terminal
-      Firebase Configration
+   
+   
+   
+      Firebase Configration in firebase.js - which you create in your project at root label
+         var firebaseConfig = {
+            apiKey: "",
+            authDomain: "",
+            databaseURL: "",
+            projectId: "",
+            storageBucket: "",
+            messagingSenderId: "",
+            appId: ""
+          };
+          // Initialize Firebase
+     firebase.initializeApp(firebaseConfig);
+  NOW ----
+  
      1. go to app folder path using terminal
      2 npm i firebase-tools -g
      3 firebase login 
